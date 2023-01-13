@@ -47,3 +47,5 @@ while flag:
     else:
         print('Спасибо за вопросы.')
         flag = False
+print('test')
+print()
